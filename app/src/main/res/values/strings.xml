@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EchoScan</string>
+
+    <!-- Onboarding screen -->
+    <string name="welcome_to_EchoScan">Welcome to EchoScan</string>
+    <string name="scan_qr_description">Scan QR codes and Barcodes instantly, and listen to the content aloud automatically.</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+
+    <!-- Scanner screen -->
+    <string name="scanning_for_qr_code_20s">Scanning for QR Code/Barcode…</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="error_qr_code_not_found">Error: Code not found.</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Example: Rounded button style -->
+    <style name="RoundedButton">
+        <item name="android:background">@drawable/rounded_button_bg</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+</resources>
